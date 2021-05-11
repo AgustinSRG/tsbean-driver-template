@@ -1,5 +1,7 @@
 // Driver implementation
 
+"use strict";
+
 import { DataSourceDriver, DataSource, GenericKeyValue, GenericRow, SortDirection, GenericFilter } from "tsbean-orm";
 
 /**
