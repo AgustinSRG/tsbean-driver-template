@@ -31,7 +31,7 @@
     "lint"
   ],
   "peerDependencies": {
-    "tsbean-orm": "0.1.0"
+    "tsbean-orm": "1.0.0"
   },
   "devDependencies": {
     "@types/node": "^15.0.2",
