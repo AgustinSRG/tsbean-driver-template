@@ -32,10 +32,10 @@
     "lint"
   ],
   "dependencies": {
-    "tsbean-orm": "2.0.2"
+    "tsbean-orm": "3.0.0"
   },
   "peerDependencies": {
-    "tsbean-orm": "2.0.2"
+    "tsbean-orm": "3.0.0"
   },
   "devDependencies": {
     "@types/chai": "4.3.4",
